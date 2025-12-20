@@ -36,7 +36,9 @@ I currently use Google's Antigravity IDE to configure projects and write code fo
 
 Much more critically, when I ask it to troubleshoot an issue, it shows me its work, which often empowers me to understand how best to troubleshoot that issue myself.
 
-Another way to put is leans on Joel Spolsky's post about<a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" target="_blank">"The Law of Leaky Abstractions"</a>. Basically, _AI is a leaky abstraction_. *The responsible use of AI for building software systems involves your own comprehension of at least one or two abstraction layers below the level at which the AI is operating.*
+Another way to put is leans on Joel Spolsky's post about<a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" target="_blank">"The Law of Leaky Abstractions"</a>. Basically, _AI is a leaky abstraction_. 
+
+IMIO (in my immodest opinion): *The responsible use of AI for creating software systems involves your own comprehension of at least one or two abstraction layers below the level at which the AI is building.*
 
 I know how to write code. I know the principles behind architecting systems of networked docker images. I know how to drop into a shell and run commands to debug errors. AI does a lot of this faster than I could do it myself, and autonomously. 
 
