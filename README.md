@@ -9,7 +9,7 @@
 
 Contact: <a href="mailto:jpmcgaw@gmail.com">jpmcgaw [at] gmail [dot] com</a>
 
-<a href="#pinned-repos">Skip to pinned repos</a>
+<a href="#user-content-#pinned-code">Skip to pinned repos</a>
 
 ## Frequently Asked Questions
 
