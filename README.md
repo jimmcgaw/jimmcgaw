@@ -58,7 +58,7 @@ Basically, <a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-a
 For me, the killer use case for AI is how it enables quickly learning and absorbing new things that I can put into practice right away.
 
 <!-- details -->
-In my experience, the best engineers are T-shaped. That is, they have broadly have some knowledge about many adjacent domains, like product management, governance, or marketing. They also have deep knowledge about a few select topics. I've spent years learning about entrepreneurship by engaging with startup communities, but now, with AI, the pace at which I can learn about security and governance frameworks, digital marketing, how to validate business ideas, and so on, is staggering. It's exciting that much of the engineering "grunt work" is handled by AI, so I can focus more time on these other things.
+In my experience, the best engineers are T-shaped. That is, they broadly have some knowledge about many adjacent domains, like product management, governance, or marketing. They also have deep knowledge about a few select topics. I've spent years learning about entrepreneurship by engaging with startup communities, but now, with AI, the pace at which I can learn about security and governance frameworks, digital marketing, how to validate business ideas, and so on, is staggering. It's exciting that much of the engineering "grunt work" is handled by AI, so I can focus more time on these other things.
 
 ### How should I read your GitHub?
 
