@@ -92,7 +92,7 @@ In college, I learned the principles of auditing systems, based on frequentist s
 
 ### What are your favorite books?
 
-Short answer: whatever I'm reading at the moment.
+Short answer: whatever I'm reading at the moment. (That would be this excellent book on <a href="https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Inference/dp/B0F47689K8/" target="_blank">AI Systems Performance Engineering</a>, which I highly recommend.)
 
 A few mainstays:
 
